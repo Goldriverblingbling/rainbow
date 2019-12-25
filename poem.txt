@@ -1,1 +1,5 @@
 This is a rainbow poem.
+red
+orange
+yellow
+blue
