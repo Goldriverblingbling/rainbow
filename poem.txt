@@ -2,6 +2,7 @@ This is a rainbow poem.
 red
 This is earth day.
 earth day day
+fixes
 orange
 yellow
 indigo
